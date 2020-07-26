@@ -1,2 +1,1 @@
-## [Portfolio]
-Portfolio made with React
+## [Portfolio](https://jeivardan.github.io/portfolio) [![Build Status](https://travis-ci.com/jeivardan/portfolio.svg?branch=master)](https://travis-ci.com/jeivardan/portfolio)
