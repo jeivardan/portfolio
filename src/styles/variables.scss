@@ -1,0 +1,15 @@
+html,
+body,
+#root {
+  height: 100%;
+  width: 100%;
+}
+
+$body-bg: black;
+$body-color: white;
+$primary: #11e6e6;
+$secondary: black;
+$link-hover-color:#78ff00;
+$navbar-color : $primary;
+
+@import "~bootstrap/scss/bootstrap";
